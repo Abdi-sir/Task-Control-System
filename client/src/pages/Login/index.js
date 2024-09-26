@@ -38,7 +38,7 @@ function Login() {
     <div className="grid grid-cols-2">
       <div className="bg-primary h-screen flex flex-col justify-center items-center">
         <div>
-          <h1 className="text-7xl text-white">SHEY-TRACKER</h1>
+          <h1 className="text-7xl text-white">Task controlling</h1>
           <span className=" text-white mt-5">
             One place to track all your business records
           </span>
